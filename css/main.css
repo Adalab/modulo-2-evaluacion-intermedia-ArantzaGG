@@ -1,11 +1,3 @@
-.stone {
-    background-color: brown;
-}
-
-.paper {
-    background-color: yellow;
-}
-
-.scissors {
-    background-color: grey;
+.hidden {
+    display: none;
 }
